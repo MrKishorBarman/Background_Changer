@@ -1,3 +1,2 @@
-# Background_Changer
-  A basic yet interesting project that changes the background after selecting the specified color.
-This project is made using React and Tailwind.
+## About the project
+This project is made using React and Tailwind, where I injected 11 colors as background colors. Simultaneously these 11 colors are separately mentioned from which after each color selection the layout will take the sekected color effect.
