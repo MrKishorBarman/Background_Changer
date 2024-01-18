@@ -1,2 +1,9 @@
-# About the project
-This project is made using React and Tailwind, where I injected 11 colors as background colors. Simultaneously these 11 colors are separately mentioned from which after each color selection the layout will take the selected color effect.
+# Background Changer Project
+
+This project is a simple background changer application built using Tailwind CSS and React.js. It allows users to change the background color dynamically.
+
+## Features
+
+- Dynamic Background: Change the background color with a click of a button.
+- Built with Tailwind CSS: Utilizes the power of Tailwind for easy styling and responsiveness.
+- React.js: Developed using the React.js library for building interactive user interfaces.
